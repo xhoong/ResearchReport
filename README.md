@@ -6,3 +6,4 @@
 * [World Bank Education Statistic EDA, features selection](https://xhoong.github.io/ResearchReport/EdStats-WB.html)
 * [Merging Education Statistics with Language Endangered, PCA on featues](https://xhoong.github.io/ResearchReport/MergingData_part1.html)
 * [Merging with GDP per capita data, EDA on results](https://xhoong.github.io/ResearchReport/MergingData_part2.nb.html)
+* [Ethnologue: Study of Language Properties](https://xhoong.github.io/ResearchReport/ethnologue_lang_props.html)
